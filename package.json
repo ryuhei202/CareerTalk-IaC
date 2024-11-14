@@ -1,8 +1,8 @@
 {
-  "name": "career_talk-ia_c",
+  "name": "iac",
   "version": "0.1.0",
   "bin": {
-    "career_talk-ia_c": "bin/career_talk-ia_c.js"
+    "iac": "bin/iac.js"
   },
   "scripts": {
     "build": "tsc",
